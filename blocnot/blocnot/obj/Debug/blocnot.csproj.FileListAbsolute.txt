@@ -1,0 +1,11 @@
+D:\Desktop\blocnot\blocnot\bin\Debug\blocnot.exe.config
+D:\Desktop\blocnot\blocnot\bin\Debug\blocnot.exe
+D:\Desktop\blocnot\blocnot\bin\Debug\blocnot.pdb
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.csproj.AssemblyReference.cache
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.Form1.resources
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.Properties.Resources.resources
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.csproj.GenerateResource.cache
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.csproj.CoreCompileInputs.cache
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.exe
+D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.pdb

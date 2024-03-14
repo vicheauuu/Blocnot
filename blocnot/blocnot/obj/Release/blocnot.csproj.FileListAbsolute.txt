@@ -1,0 +1,16 @@
+D:\Desktop\blocnot\blocnot\bin\Release\blocnot.exe.config
+D:\Desktop\blocnot\blocnot\bin\Release\blocnot.exe
+D:\Desktop\blocnot\blocnot\bin\Release\blocnot.pdb
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.csproj.AssemblyReference.cache
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.Form1.resources
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.Properties.Resources.resources
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.csproj.GenerateResource.cache
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.csproj.CoreCompileInputs.cache
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.exe
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.pdb
+D:\Desktop\blocnot\blocnot\bin\Release\blocnot.exe.manifest
+D:\Desktop\blocnot\blocnot\bin\Release\blocnot.application
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.TrustInfo.xml
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.exe.manifest
+D:\Desktop\blocnot\blocnot\obj\Release\blocnot.application
