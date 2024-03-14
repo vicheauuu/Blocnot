@@ -9,3 +9,18 @@ D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.csproj.GenerateResource.cache
 D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.csproj.CoreCompileInputs.cache
 D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.exe
 D:\Desktop\blocnot\blocnot\obj\Debug\blocnot.pdb
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\bin\Debug\blocnot.exe.config
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\bin\Debug\blocnot.exe.manifest
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\bin\Debug\blocnot.application
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\bin\Debug\blocnot.exe
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\bin\Debug\blocnot.pdb
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.csproj.AssemblyReference.cache
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.Form1.resources
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.Properties.Resources.resources
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.csproj.GenerateResource.cache
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.csproj.CoreCompileInputs.cache
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.TrustInfo.xml
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.exe.manifest
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.application
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.exe
+C:\Users\ceiti\OneDrive\Рабочий стол\GitHub\Blocnot\blocnot\blocnot\obj\Debug\blocnot.pdb

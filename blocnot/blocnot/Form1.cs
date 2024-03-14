@@ -25,33 +25,30 @@ namespace blocnot
             MessageBoxManager.Ignore = "Cancel";
         }
 
+        String path = String.Empty;
 
-
-        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             using (SaveFileDialog saveFileDialog = new SaveFileDialog())
             {
                 saveFileDialog.FileName = "New Text Document";
                 saveFileDialog.Filter = "Text files (*.txt)|*.txt|Bat (*.bat)|*.bat|All files (*.*)|*.*"; saveFileDialog.FilterIndex = 1;
                 saveFileDialog.RestoreDirectory = true;
-
-
                 if (saveFileDialog.ShowDialog() == DialogResult.OK)
                 {
-                    string filePath = saveFileDialog.FileName;
-
-                    try
-                    {
-                        using (TextWriter txt = new StreamWriter(filePath))
-                        {
-                            txt.Write(textBox1.Text);
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show($"A apărut o eroare la salvarea fișierului: {ex.Message}", "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
+                    File.WriteAllText(path = saveFileDialog.FileName, textBox1.Text);
                 }
+            }
+        }
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (!String.IsNullOrWhiteSpace(path))
+            {
+                File.WriteAllText(path, textBox1.Text);
+            }
+            else
+            {
+                saveAsToolStripMenuItem_Click(sender, e);
             }
         }
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
@@ -66,16 +63,10 @@ namespace blocnot
                 textBox1.Text = File.ReadAllText(openFileDialog1.FileName);
             }
         }
-
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             Form Form = new Form();
-            if (textBox1.Text != "")
+            if (!string.IsNullOrWhiteSpace(textBox1.Text))
             {
                 MessageBoxManager.Register();
                 var selectedOption = MessageBox.Show("Do you want to save changes?", "Blocnot", MessageBoxButtons.AbortRetryIgnore, MessageBoxIcon.Question);
@@ -95,5 +86,7 @@ namespace blocnot
                 else { Form.Close(); }
             MessageBoxManager.Unregister();
         }
+
+
     }
 }
